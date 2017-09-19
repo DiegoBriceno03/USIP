@@ -1,6 +1,5 @@
  /*  Author: Jeff Strange,Diego Briceno & Seamus Anderson
- *  Date:        6  July   2017
- *  Last Update: 31 August 2017
+
  *  Purpose: 
  *    Test the integration of various experimental apparatus components for the
  *    SLOPE Undergraduate Student Instrumentation Project from 
