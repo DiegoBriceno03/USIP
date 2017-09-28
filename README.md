@@ -1,5 +1,10 @@
 # USIP
 
+Test the integration of various experimental apparatus components for the * SLOPE Undergraduate Student Instrumentation Project * from UCF's Center for Microgravity Research.
+
+## Schematic
+![alt text](https://github.com/DiegoBriceno03/USIP/blob/master/Schematics/USIP_SkematicR1.png)
+
 ## References:
 - DM422 Stepper Driver User's Manual (http://www.leadshine.com/UploadFile/Down/DM422m.pdf)
 - 17HS08-1004S Stepper Motor Datasheet (https://www.omc-stepperonline.com/download/17HS08-1004S.pdf)
@@ -12,7 +17,4 @@
 - Red:   B+
 - Blue:  B-
 - Motor Resolution: 1.8 deg/step
-
-## Schematic
-![alt text](https://github.com/DiegoBriceno03/USIP/blob/master/Schematics/USIP_SkematicR1.png)
 
