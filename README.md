@@ -12,3 +12,7 @@
 - Red:   B+
 - Blue:  B-
 - Motor Resolution: 1.8 deg/step
+
+## Schematic
+![alt text](https://github.com/DiegoBriceno03/USIP/blob/master/Schematics/USIP_SkematicR1.png)
+
