@@ -2,8 +2,15 @@
 
 Test the integration of various experimental apparatus components for the * SLOPE Undergraduate Student Instrumentation Project * from UCF's Center for Microgravity Research.
 
-## Schematic
-![alt text](https://github.com/DiegoBriceno03/USIP/blob/master/Schematics/USIP_SkematicR1.png)
+## Schematics
+### Control Circuit
+![alt text](https://raw.githubusercontent.com/DiegoBriceno03/USIP/master/Schematics/USIP_Control.png)
+
+### Experiment Box
+![alt text](https://raw.githubusercontent.com/DiegoBriceno03/USIP/master/Schematics/USIP_Box.png)
+
+### Plane to Experiment Power
+![alt text](https://raw.githubusercontent.com/DiegoBriceno03/USIP/master/Schematics/Plane2USIP_Wiring.png)
 
 ## References:
 - DM422 Stepper Driver User's Manual (http://www.leadshine.com/UploadFile/Down/DM422m.pdf)
