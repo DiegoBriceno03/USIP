@@ -52,9 +52,8 @@ void setup(){
   pinMode(ENA,   OUTPUT);    
   pinMode(OPTO,  OUTPUT);    
   pinMode(DIR,   OUTPUT);    
-  pinMode(PUL,   OUTPUT);    
-  pinMode(VIB2,  OUTPUT);
-  pinMode(BUTP,  OUTPUT);
+//  pinMode(PUL,   OUTPUT);    
+//  pinMode(BUTP,  OUTPUT);
 
   
   pinMode(SWI,   INPUT);
@@ -70,7 +69,7 @@ void setup(){
   digitalWrite(OPTO, HIGH);  // Provide power to the stepper driver's opto-couplers.
   delay(1);
   digitalWrite(DIR,  HIGH);  // Set the stepper to rotate clockwise (viewed from the top).
-  digitalWrite(BUTP, HIGH);  // Turn on Button's power supply
+//  digitalWrite(BUTP, HIGH);  // Turn on Button's power supply
 
    
   delay(100);            }
