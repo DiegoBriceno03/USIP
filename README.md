@@ -18,6 +18,16 @@ Test the integration of various experimental apparatus components for the * SLOP
 - KWB-R8445W/1W White LED Backlight Datasheet (https://cdn-shop.adafruit.com/datasheets/KWB-R8445W-1W.pdf)
 - 1201 Vibrating Motor Product Page (https://www.adafruit.com/product/1201)
 
+## Electrical Characteristics
+Input voltage for the regulator is 28V.
+Output voltage of the regulator is 5V.
+
+|  Components  | Current |
+| --- | --- |
+| LED | 20mA|
+
+More components will be listed here.
+
 ## Wiring for the motor:
 - Black: A+
 - Green: A-
