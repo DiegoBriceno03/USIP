@@ -25,6 +25,7 @@ Output voltage of the regulator is 5V.
 |  Components  | Current |
 | --- | --- |
 | LED | 20mA|
+| Motor Driver | 200mA |
 
 More components will be listed here.
 
