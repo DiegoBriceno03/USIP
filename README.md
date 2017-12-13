@@ -17,6 +17,7 @@ Test the integration of various experimental apparatus components for the * SLOP
 - 17HS08-1004S Stepper Motor Datasheet (https://www.omc-stepperonline.com/download/17HS08-1004S.pdf)
 - KWB-R8445W/1W White LED Backlight Datasheet (https://cdn-shop.adafruit.com/datasheets/KWB-R8445W-1W.pdf)
 - 1201 Vibrating Motor Product Page (https://www.adafruit.com/product/1201)
+- 5V/12V Pololu Voltage regulator (https://www.pololu.com/product/2851/specs)
 
 ## Wiring for the motor:
 - Black: A+
@@ -24,4 +25,3 @@ Test the integration of various experimental apparatus components for the * SLOP
 - Red:   B+
 - Blue:  B-
 - Motor Resolution: 1.8 deg/step
-
